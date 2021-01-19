@@ -18,7 +18,7 @@ li{
 }
 
 #header .header-container {
-    max-width: 1430px;
+    width: 1430px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -81,7 +81,7 @@ li{
 }
 
 #main .search-container{
-    max-width: 1430px;
+    width: 1430px;
     position: relative;
     height: 86px;
     margin-left: auto;
@@ -135,7 +135,7 @@ li{
 
 #main .banner-container{
 
-    max-width: 1430px;
+    width: 1430px;
     height: 105px;
     margin-left: auto;
     margin-right: auto;
@@ -174,8 +174,8 @@ li{
 }
 
 #main .item-container{
-    max-width: 1430px;
-    height: 300px;
+    width: 1430px;
+    height: 230px;
     position: relative;
     margin: 0 auto;
     padding-left: 44px;
@@ -262,10 +262,11 @@ li{
 }
 #main .item-select{
     height: 60px;
+    width: 1518px;
     margin-left: auto;
     margin-right: auto;
-    max-width: 1430px;
-    max-width: 1430px;
+    /* max-width: 1430px; */
+    /* max-width: 1430px; */
     background-color: white;
     margin-top: 12px;
 }
@@ -292,7 +293,7 @@ li{
 #main .item-right {
     position: relative;
     height: 60px;
-    width: 500px;
+    width: 264px;
     float: right;
     /* background-color: lightseagreen; */
 }
@@ -354,7 +355,7 @@ li{
     line-height: 30px;
     margin: 0 auto;
     height: 30px;
-    width: 1250px;
+    width: 1400px;
     /* background-color: violet; */
 }
 #main .sort-and-page ul{
@@ -412,8 +413,8 @@ li{
 
 }
 #main .course-list{
-    margin: 0 233px;
-}
+    margin: 0 auto;
+    width: 1440px;}
 
 #main .course-list a{
     display: inline-block;
@@ -518,14 +519,15 @@ li{
 }
 .footer_box_left_text{
     position: absolute;
-    bottom: 20px;
+    bottom: 3px;
     font-size: 9px;
+    left: 184px;
     color: blanchedalmond;
 }
 .footer_jinghui{
     width: 16px;
     position: absolute;
-    bottom: 27px;
+    bottom: 11px;
     left: 344px;
 }
 

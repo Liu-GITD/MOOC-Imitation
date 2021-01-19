@@ -4,13 +4,18 @@
 }
 
 /* 整个导航栏 */
+.nav-container{
+    background-color: white;
+}
+
+
 .nav {
     box-shadow: gray;
     margin-top: 0px;
     position: relative;
-    width: 100%;
+    width: 1400px;
     height: 60px;
-    background-color: white;
+    margin: 0 auto;
 }
 
 /* 导航栏左侧的文字 */

@@ -14,7 +14,8 @@ body{
 }
 
 #header .header-container {
-    max-width: 1090px;
+    width: 1090px;
+    height: 40px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -86,7 +87,7 @@ body{
 }
 
 #main .search-container{
-    max-width: 1090px;
+    width: 1090px;
     position: relative;
     height: 60px;
     margin-left: auto;
@@ -216,6 +217,15 @@ body{
     font-size: 8px;
     color: rgb(165, 165, 165);
 }
+
+
+#main .top1>div>p{
+
+    margin-top: 10px;
+    font-size: 8px;
+    color: rgb(165, 165, 165);
+}
+
 
 #main .item1{
     margin-top: 20px;

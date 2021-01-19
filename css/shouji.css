@@ -10,6 +10,7 @@ a:visited {
 }
 
 
+*
 *{
     margin: 0;
     padding: 0;
@@ -25,7 +26,8 @@ body{
 }
 
 #header .header-container {
-    max-width: 1090px;
+    width: 1090px;
+    height: 40px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -92,13 +94,15 @@ body{
 
 
 
+
 #main .select-container{
     background-color: white;
     box-shadow: 0 8px 16px 0 rgba(28,31,33,.1);
 }
 
+
 #main .search-container{
-    max-width: 1090px;
+    width: 1090px;
     position: relative;
     height: 60px;
     margin-left: auto;
@@ -106,6 +110,9 @@ body{
     margin-right: auto;
     background-color: white;
 }
+
+
+
 #main .title{
     float: left;
     /* margin-left: 40px; */
