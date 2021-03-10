@@ -54,8 +54,8 @@
 
 ## :pager:专栏页
 
-![](https://ftp.bmp.ovh/imgs/2021/03/a9abdcf60167b985.png)
+![](https://ftp.bmp.ovh/imgs/2021/03/a7bb16bf49a0dab9.png)
 
 ## :writing_hand:手记页
 
-![](https://ftp.bmp.ovh/imgs/2021/03/a9abdcf60167b985.png)
+![](https://ftp.bmp.ovh/imgs/2021/03/7d04afc9669135f6.png)
